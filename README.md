@@ -13,7 +13,8 @@ The core of this project is a comprehensive benchmark between three generations 
 ## 🛠 Methodology & Technical Scope
 * **Domain:** Quantitative Finance & Deep Learning (Computer Vision).
 * **Core Task:** Object Detection on Candlestick Charts.
-* **Model Benchmarking:** * **YOLOv8n:** The established baseline for speed and efficiency.
+* **Model Benchmarking:**
+    * **YOLOv8n:** The established baseline for speed and efficiency.
     * **YOLOv11n:** Enhanced feature extraction for micro-pattern recognition.
     * **YOLOv26n (Experimental):** Optimized for complex, high-volatility financial time-series data.
 
